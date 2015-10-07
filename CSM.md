@@ -16,6 +16,26 @@
  
 Piliers
 1. transparence
-1.  inspection : rendre les PPROBLEMES visibles
-1. adaptation
+2. inspection : rendre les PPROBLEMES visibles
+3. adaptation
 
+Humain: difficulté à estimer le temps -> conséquence -> on impose une TimeBox (TB)
+- Apprendre avec un PDCA dans la contraint d'une TimeBox
+ - planifier / Exécuter / Vérifier / Agir
+
+Mettre dans le contexte historique
+1920 -> ensuite rien -> 1940 (2nd guerre mondiale) -> 1942 -> entrée en guerre des USA en Europe -> bcp moins de bras -> besoin de PDCA pour être plus performant -> fin de la guerre -> fin PDCA -> envoie au Japon     
+Japon / Toyota :     
+ - kaizen (1950)    
+ - Lean manufacturing    
+(Attention à la déhumanisation avec Lean Six-Sigma)    
+1980: 4e capitalisme (mondialisation / globalisation), course à l'information -> ➚ informatique   
+1990: 5e capitalisme (financiarisme)   
+- 3 pbs majeurs: 
+ - forte impression que le client ne sait pas ce qu'il veut
+ - besoin équipe médiocre pour aller plus vite
+ - les gens ne vont plus savoir collaborer
+
+C.P. : Chef de Projet ou Con du Projet
+
+!!! mettre à chaque fois des petites histoires
