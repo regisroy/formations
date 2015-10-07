@@ -33,15 +33,31 @@ Japon / Toyota :
 1990: 5e capitalisme (financiarisme)   
 - 3 pbs majeurs: 
  - forte impression que le client ne sait pas ce qu'il veut
- - besoin équipe médiocre pour aller plus vite
- - les gens ne vont plus savoir collaborer
+ - besoin équipe médiocre pour aller plus vite  
+ - les gens ne vont plus savoir collaborer  
+  
+C.P. : Chef de Projet ou Con du Projet  
+  
+!!! mettre à chaque fois des petites histoires, petites opinions  
+!!! interpelller l'auditoire  
+  
+Il y a 4 PDCA dans Scrum (Backlog, Sprint, Daily, Rétrospective)  => !!!  
+  
+![CSM-PDCAs-backlog-sprint-daily.jpg](https://www.dropbox.com/s/kt4kvpiuom08pi8/CSM-PDCAs-backlog-sprint-daily.jpg?dl=0)  
+  
+PDCA Sprint: Agir: 1: arrêt, 2:corriger hypothèse, 3:incrément de produit techniquement fini  
+  
+Daniel H. Pink: Drive    Comportement=f(Environnement, Personnalité)  
+âne + carotte => bonus,  
+- sociologie appliquée à la formation
+ - notion de ressource: 
+  - homme -> paire de bras
+  - équipe : toutes les compétences
+- les indicateurs sont sur les ressources, non sur les personnes
+- rôles
+ - PO
+ - Equipe de Réalisaton (Er) (excellence réalisation)
+ - Scrum master (excellence collaboration): valeurs, pratiques, autres
 
-C.P. : Chef de Projet ou Con du Projet
 
-!!! mettre à chaque fois des petites histoires, petites opinions
-!!! interpelller l'auditoire
-
-Il y a 4 PDCA dans Scrum (Backlog, Sprint, Daily, Rétrospective)  => !!!
-
-![CSM-PDCAs-backlog-sprint-daily.jpg](https://www.dropbox.com/s/kt4kvpiuom08pi8/CSM-PDCAs-backlog-sprint-daily.jpg?dl=0)
 
