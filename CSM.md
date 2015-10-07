@@ -38,4 +38,10 @@ Japon / Toyota :
 
 C.P. : Chef de Projet ou Con du Projet
 
-!!! mettre à chaque fois des petites histoires
+!!! mettre à chaque fois des petites histoires, petites opinions
+!!! interpelller l'auditoire
+
+Il y a 4 PDCA dans Scrum (Backlog, Sprint, Daily, Rétrospective)  => !!!
+
+![CSM-PDCAs-backlog-sprint-daily.jpg](https://www.dropbox.com/s/kt4kvpiuom08pi8/CSM-PDCAs-backlog-sprint-daily.jpg?dl=0)
+
