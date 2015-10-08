@@ -27,7 +27,7 @@
     - [ScrumGuide](http://www.scrumguides.org/scrum-guide.html)
     - [AgileAtlas](http://agileatlas.org)
     - [Do better Scrum](http://www.agile42.com/en/agile-info-center/do-better-scrum/)
-    - [InfoQ-Scrum & XP from the trenches v2](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
+    - [Scrum & XP from the trenches v2](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
     - [Scrum Primer](http://www.scrumprimer.org/primers/)
 
 
