@@ -11,15 +11,15 @@
  - Holacratie / Sociocratie
 - Scrum
  - [les 3 piliers](http://www.scrumguides.org/scrum-guide.html)
-   - Transparence
-   - Inspection
-   - Adaptabilité
- - [les valeurs](http://agileatlas.org)
-   - Focus
-   - Courage
-   - Openness
-   - Commitment
-   - Respect
+   - Transparence  
+   - Inspection  
+   - Adaptabilité  
+ - [les valeurs](http://agileatlas.org)  
+   - Focus  
+   - Courage  
+   - Openness  
+   - Commitment  
+   - Respect  
 - déroulement de la formation : EduScrum, Principes d'auto-organisation
 - Jeux
   - [sudokuKanban](http://www.unbounddna.com/resources/agile-games/sudokuban-a-kanban-in-action-puzzle-game/)
