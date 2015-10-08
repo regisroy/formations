@@ -14,12 +14,12 @@
    - Transparence  
    - Inspection  
    - Adaptabilité  
- - [les valeurs](http://agileatlas.org)  
-   - Focus  
-   - Courage  
-   - Openness  
-   - Commitment  
-   - Respect  
+ - [les 5 valeurs](http://agileatlas.org)  
+   - Focus   
+   - Courage   
+   - Openness   
+   - Commitment   
+   - Respect   
 - déroulement de la formation : EduScrum, Principes d'auto-organisation
 - Jeux
   - [sudokuKanban](http://www.unbounddna.com/resources/agile-games/sudokuban-a-kanban-in-action-puzzle-game/)
