@@ -29,7 +29,6 @@
         - carnet de notes
         - notes
     - La poste
-    - 
         - à l'antiquité : 1 colis, 1 facteur à pied, 1 destination
         - au moyen âge : 1 colis, 1 facteur à cheval, 1 destination
         - à l'ère industrielle : 1 colis, 1 facteur en vélo, 1 destination
