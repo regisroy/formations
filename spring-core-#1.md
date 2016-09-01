@@ -94,7 +94,10 @@
           private PersonRepository personRepository;
           ```
 * un peu de configuration java tout de même
-    - `@ComponenScan ("...")`  
+
+    ```java
+    @ComponenScan ("fr.enedis")
+    ```  
 * Application context :  `AnnotationConfigApplicationContext`
 * ...
 
