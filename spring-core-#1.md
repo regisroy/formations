@@ -67,6 +67,8 @@
 * déclarer la classe de config
 * déclarer les beans managés
 * Application context
+* Multiples fichiers de configuration
+    - `@Import({InfrastructureConfig.class, WebConfig.class })`
 
 .    
 .      
