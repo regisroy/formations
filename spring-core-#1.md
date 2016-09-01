@@ -58,7 +58,7 @@
 * déclarer la classe de config : `@Configuration`
 * déclarer les beans managés : `@Bean`
 * le scope d'un bean : `@Scope("xxxx")`
-* Application context :  `JavaBasedApplicationContext`
+* Application context :  ` AnnotationConfigApplicationContext`
 
 .    
 .    
