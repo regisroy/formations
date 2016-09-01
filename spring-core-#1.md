@@ -57,6 +57,7 @@
 ## Configuration dans une classe Java
 * déclarer la classe de config : `@Configuration`
 * déclarer les beans managés : `@Bean`
+* le scope d'un bean : `@Scope("xxxx")`
 * Application context :  `JavaBasedApplicationContext`
 
 .    
@@ -101,7 +102,22 @@
 ## Gestion des propriétés
 * récupération avec bean `Environment`    
 * récupération avec `@Value("${xx}")`    
-
+* d'où viennent les propriétés ?
+    - JVM System Properties
+    - Java Properties Files
+    - Servlet Context Parameters
+    - System Environment Variables
+    - JNDI  
+* propriétés stockées dans un fichier `.properties`
+    - `@PropertySource ( “classpath:/com/organization/config/app.properties” )`
+    - on doit ajouter un bean
+```
+@Bean
+public  static  PropertySourcesPlaceholderConfigurer
+                                  propertySourcesPlaceholderConfigurer() {
+         return new PropertySourcesPlaceholderConfigurer();
+}
+````
 .      
 .      
 .      
