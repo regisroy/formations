@@ -2,9 +2,9 @@
 
 * Qu'est-ce que Spring ?
 * Configurer spring, 3 façons
-    - dans des classes java
+    - par classes java
     - par annotations
-    - dans les fichiers des configuration xml
+    - dans des fichiers xml
 * Utiliser des propriétés avec spring
     - qu'est-ce qu'une propriété dans spring ?
     - comment récupérer une propriété
@@ -71,6 +71,28 @@
     - les stéréotypes :  `@Commonent` `@Service` `@Repository` `@Controller` 
 * injecter un bean
      - `@Autowired`
+         - par setter
+          
+          ```java
+          @Autowired
+          public void setPersonRepository(PersonRepository repo) {
+              this.personRepository = repo;
+          }
+          ```
+         - par constructeur
+          
+          ```java
+          @Autowired
+          public TransferServiceJdbc(PersonRepository repo) {
+              this.personRepository = repo;
+          }
+          ```
+         - par attribut
+          
+          ```java
+          @Autowired
+          private PersonRepository personRepository;
+          ```
 * un peu de configuration java tout de même
     - `@ComponenScan ("...")`  
 * Application context :  `AnnotationConfigApplicationContext`
