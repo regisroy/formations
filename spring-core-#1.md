@@ -14,6 +14,7 @@
 .      
 .      
 .      
+
 ## Qu'est-ce que spring ?
 * Pourquoi utiliser spring ?
     - pour faire de l'injection de dépendances => ?
@@ -25,6 +26,7 @@
 .    
 .      
 .      
+
 ## Le pattern Injection de dépendances
 * DI
     - exemple
@@ -37,6 +39,7 @@
 .    
 .      
 .      
+
 ## Spring est un framework qui a une opinion
 * Il favorise les appplication par couche
 * Il favorise le développement avec des tests (Unitaires, Intégration, Fonctionnels, ...)
@@ -46,6 +49,7 @@
 .    
 .      
 .      
+
 ## Configuration dans une classe Java
 * déclarer la classe de config
 * déclarer les beans managés
@@ -55,6 +59,7 @@
 .    
 .      
 .      
+
 ## Configuration par annotations
 * déclarer un bean
 * injecter un bean
@@ -67,6 +72,7 @@
 .    
 .      
 .      
+
 ## Configuration en xml
 * <bean id="" class=""/>
 * intection par setter : <property name="" value|ref=""/>
@@ -76,6 +82,7 @@
 .    
 .      
 .      
+
 ## Pourquoi une configuration Xml ou par annotation ou Java ?
 * ...
 .      
