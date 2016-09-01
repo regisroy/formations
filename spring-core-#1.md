@@ -7,7 +7,7 @@
     - dans les fichiers des configuration xml
 * Utiliser des propriétés avec spring
     - qu'est-ce qu'une propriété dans spring ?
-    - comment récupérer une propriété
+    - comment récupérer une propriété    
 .    
 .    
 .    
