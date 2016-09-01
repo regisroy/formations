@@ -15,6 +15,7 @@
 .      
 .      
 .      
+.      
 
 ## Qu'est-ce que spring ?
 * Pourquoi utiliser spring ?
@@ -28,6 +29,7 @@
 .    
 .      
 .      
+.      
 
 ## Le pattern Injection de dépendances
 * DI
@@ -38,6 +40,7 @@
         - par ...
 
 .     
+.      
 .    
 .    
 .      
@@ -49,6 +52,7 @@
 * Il favorise le développement par contrat
 
 .    
+.      
 .    
 .    
 .      
@@ -60,6 +64,7 @@
 * Application context
 
 .    
+.      
 .    
 .    
 .      
@@ -78,6 +83,7 @@
 .    
 .      
 .      
+.      
 
 ## Configuration en xml
 * <bean id="" class=""/>
@@ -89,6 +95,7 @@
 .    
 .      
 .      
+.      
 
 ## Pourquoi une configuration Xml ou par annotation ou Java ?
 * ...
@@ -98,5 +105,5 @@
 .      
 .      
 .      
+.      
  
-
