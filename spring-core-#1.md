@@ -9,9 +9,6 @@
     - qu'est-ce qu'une propriété dans spring ?
     - comment récupérer une propriété
 
-.    
-.    
-.    
 .      
 .      
 .      
@@ -29,8 +26,6 @@
     - pour avoir un container léger => ?
     - pour bénéficier pleinement de [l'éco-système Spring](https://spring.io/projects)
 
-.        
-.    
 .    
 .      
 .      
@@ -43,8 +38,6 @@
         - par ...
         - par ...
         - par ...
-.     
-.      
 .    
 .    
 .      
@@ -57,8 +50,6 @@
     * utilisation d'interfaces 
 
 .    
-.      
-.    
 .    
 .      
 .      
@@ -69,23 +60,20 @@
 * Application context :  `JavaBasedApplicationContext`
 
 .    
-.      
-.    
 .    
 .      
 .      
 
 ## Configuration par annotations :
-* déclarer un bean
+* déclarer un bean :
+    - les stéréotypes :  `@Commonent` `@Service` `@Repository` `@Controller` 
 * injecter un bean
-     - injection par méthode
-     - injection par paramètre
+     - `@Autowired`
 * un peu de configuration java tout de même
+    - `@ComponenScan ("...")`  
 * Application context :  `AnnotationConfigApplicationContext`
 * ...
 
-.    
-.    
 .    
 .      
 .      
@@ -98,8 +86,6 @@
 * Application context :  `FileSystemXmlApplicationContext` ou `ClassPathXmlApplicationContext`
 
 .    
-.    
-.    
 .      
 .      
 .      
@@ -107,8 +93,6 @@
 ## Pourquoi une configuration Xml ou par annotation ou Java ?
 * ...
 
-.      
-.      
 .      
 .      
 .      
