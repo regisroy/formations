@@ -110,20 +110,17 @@
     - JNDI  
 * propriétés stockées dans un fichier `.properties`    
     - déclaration du fichier à charger     
-
         ```java 
         @PropertySource ( “classpath:/com/organization/config/app.properties” )    
         ```      
-    
     - on doit ajouter un bean `PropertySourcesPlaceholderConfigurer`    
-    
-    ```java
-    @Bean
-    public  static  PropertySourcesPlaceholderConfigurer
+        ```java
+        @Bean
+        public  static  PropertySourcesPlaceholderConfigurer
                                   propertySourcesPlaceholderConfigurer() {
-         return new PropertySourcesPlaceholderConfigurer();
-    }
-    ```   
+             return new PropertySourcesPlaceholderConfigurer();
+        }
+        ```   
 
 .      
 .      
