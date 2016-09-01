@@ -8,6 +8,7 @@
 * Utiliser des propriétés avec spring
     - qu'est-ce qu'une propriété dans spring ?
     - comment récupérer une propriété
+
 .    
 .    
 .    
@@ -21,6 +22,7 @@
     - pour utiliser des classes utilitaires => ?
     - pour vous simplifier la vie => ?
     - pour avoir un container léger => ?
+
 .        
 .    
 .    
@@ -34,6 +36,7 @@
         - par ...
         - par ...
         - par ...
+
 .     
 .    
 .    
@@ -44,6 +47,7 @@
 * Il favorise les appplication par couche
 * Il favorise le développement avec des tests (Unitaires, Intégration, Fonctionnels, ...)
 * Il favorise le développement par contrat
+
 .    
 .    
 .    
@@ -54,6 +58,7 @@
 * déclarer la classe de config
 * déclarer les beans managés
 * Application context
+
 .    
 .    
 .    
@@ -67,6 +72,7 @@
      - injection par paramètre
 * un peu de configuration java tout de même
 * ...
+
 .    
 .    
 .    
@@ -77,6 +83,7 @@
 * <bean id="" class=""/>
 * intection par setter : <property name="" value|ref=""/>
 * injection par contructeur : <constructor-arg value|ref="" />
+
 .    
 .    
 .    
@@ -85,6 +92,7 @@
 
 ## Pourquoi une configuration Xml ou par annotation ou Java ?
 * ...
+
 .      
 .      
 .      
