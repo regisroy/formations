@@ -111,9 +111,9 @@
 * propriétés stockées dans un fichier `.properties`
     - déclaration du fichier à charger     
 ```java 
-@PropertySource ( “classpath:/com/organization/config/app.properties” )
+@PropertySource ( “classpath:/com/organization/config/app.properties” )    
 ```      
-
+    
     - on doit ajouter un bean `PropertySourcesPlaceholderConfigurer`    
 
 ```java
