@@ -25,6 +25,7 @@
     - pour vous simplifier la vie => ?
     - pour avoir un container léger => ?
     - pour bénéficier pleinement de [l'éco-système Spring](https://spring.io/projects)
+    - une documentation bien faite [doc](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/)
 
 .    
 .      
