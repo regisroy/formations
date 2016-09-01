@@ -43,7 +43,6 @@
         - par ...
         - par ...
         - par ...
-
 .     
 .      
 .    
@@ -55,6 +54,7 @@
 * Il favorise les appplication par couche
 * Il favorise le développement avec des tests (Unitaires, Intégration, Fonctionnels, ...)
 * Il favorise le développement par contrat
+    * utilisation d'interfaces 
 
 .    
 .      
@@ -64,11 +64,9 @@
 .      
 
 ## Configuration dans une classe Java
-* déclarer la classe de config
-* déclarer les beans managés
-* Application context
-* Multiples fichiers de configuration
-    - `@Import({InfrastructureConfig.class, WebConfig.class })`
+* déclarer la classe de config : `@Configuration`
+* déclarer les beans managés : `@Bean`
+* Application context :  `JavaBasedApplicationContext`
 
 .    
 .      
@@ -77,12 +75,13 @@
 .      
 .      
 
-## Configuration par annotations
+## Configuration par annotations :
 * déclarer un bean
 * injecter un bean
      - injection par méthode
      - injection par paramètre
 * un peu de configuration java tout de même
+* Application context :  `AnnotationConfigApplicationContext`
 * ...
 
 .    
@@ -93,9 +92,10 @@
 .      
 
 ## Configuration en xml
-* <bean id="" class=""/>
-* intection par setter : <property name="" value|ref=""/>
-* injection par contructeur : <constructor-arg value|ref="" />
+* `<bean id="" class=""/>`
+* intection par setter : `<property name="" value|ref=""/>`
+* injection par contructeur : `<constructor-arg value|ref="" />`
+* Application context :  `FileSystemXmlApplicationContext` ou `ClassPathXmlApplicationContext`
 
 .    
 .    
@@ -114,3 +114,15 @@
 .      
 .      
  
+## Gestion des propriétés
+* récupération avec bean `Environment`    
+* récupération avec `@Value("${xx}")`    
+
+.      
+.      
+.      
+.      
+.      
+.      
+ 
+
