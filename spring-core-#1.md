@@ -109,10 +109,12 @@
     - System Environment Variables
     - JNDI  
 * propriétés stockées dans un fichier `.properties`
-    - ```java 
+    - déclaration du fichier à charger 
+```java 
 @PropertySource ( “classpath:/com/organization/config/app.properties” )
 ```      
-    - on doit ajouter un bean    
+    
+    - on doit ajouter un bean `PropertySourcesPlaceholderConfigurer`
 ```java
 @Bean
 public  static  PropertySourcesPlaceholderConfigurer
