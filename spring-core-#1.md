@@ -113,6 +113,7 @@
 ```java 
 @PropertySource ( “classpath:/com/organization/config/app.properties” )
 ```      
+
     - on doit ajouter un bean `PropertySourcesPlaceholderConfigurer`    
 
 ```java
