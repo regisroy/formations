@@ -128,6 +128,18 @@
 .      
 .      
 .      
+
+## Spring Expresssion Language
+```java
+@Value("#{ systemProperties['user.region'] }")
+String region;
+
+@Value("#{strategyBean.keyGenerator}") 
+KeyGenerator kgen;
+```
+
+.      
+.      
 .      
 .      
  
