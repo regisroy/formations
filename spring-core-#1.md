@@ -18,11 +18,16 @@
 .      
 
 ## Qu'est-ce que spring ?
+* Rod Johnson => réaction aux EJB
+* 1ère version : 2004 -> 2016
+* Version actuelle : 4.3
+* Prochaine version majeure : 5.0
 * Pourquoi utiliser spring ?
     - pour faire de l'injection de dépendances => ?
     - pour utiliser des classes utilitaires => ?
     - pour vous simplifier la vie => ?
     - pour avoir un container léger => ?
+    - pour bénéficier pleinement de [l'éco-système Spring](https://spring.io/projects)
 
 .        
 .    
